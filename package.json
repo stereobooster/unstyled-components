@@ -1,0 +1,19 @@
+{
+  "name": "unstyled-components",
+  "version": "1.0.0",
+  "description": "styled-components that Sebastian Markbåge would like",
+  "main": "index.js",
+  "module": "index.js",
+  "author": "stereobooster",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "react": "^16.8.6"
+  },
+  "files": [
+    "index.js"
+  ]
+}
