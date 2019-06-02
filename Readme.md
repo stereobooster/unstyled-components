@@ -14,7 +14,7 @@ styled-components based on React's style prop
 ```js
 import React from "react";
 import isPropValid from "@emotion/is-prop-valid";
-import { styled, ThemeProvider } from "unstyled-components";
+import { styled, ThemeProvider } from "@stereobooster/unstyled-components";
 
 const H1 = styled("h1", {
   shouldForwardProp: prop => isPropValid(prop) && prop !== "color"
